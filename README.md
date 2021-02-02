@@ -1,2 +1,2 @@
 # Crazy-Story
-My adventures om programming
+My adventures on programming
